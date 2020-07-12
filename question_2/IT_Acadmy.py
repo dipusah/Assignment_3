@@ -147,7 +147,7 @@ while choice != 'q':
 
     elif choice == '3':
         print("student registration fee each 1000 for installment :- ", 2000)
-        print("Student are allow to pay  amount in two installment 1000 each:\n ")
+        print("Student are allow to pay  amount in two installment 1000 each: ")
         print("student details are taken in student_info file: ")
         student_information_xlsx_file()
         perform_more_action()
